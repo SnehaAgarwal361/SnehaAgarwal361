@@ -17,10 +17,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://twitter.com/snehaagrwal_" target="_blank" rel="noopener noreferrer"> <img align="center" src="https://twitter.com/intent/tweet" alt="Twitter" height="30" width="40" /> </a>
-<a href="https://twitter.com/snehaagrwal_" target="blank"><img align="center" src="https://twitter.com/intent/tweet" alt="Twitter" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sneha-agrwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="30" width="40" /></a>
-<a href="https://instagram.com/snehaagrwal_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+<a href="https://twitter.com/snehaagrwal_" target="blank"><img align="center" src="https://twitter.com/intent/tweet" alt="Twitter" height="30" width="40" /></a><nbsp>
+<a href="https://linkedin.com/in/sneha-agrwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="30" width="40" /></a><nbsp>
+<a href="https://instagram.com/snehaagrwal_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a><nbsp>
 <a href="https://medium.com/@snehaagarwalbly361" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" /></a>
 </p>
 
