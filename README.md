@@ -18,15 +18,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://twitter.com/snehaagrwal_" target="blank"><img align="center" src="https://www.exclaimer.com/content/images/twitter-35x35.gif" alt="Twitter Icon" height="30" width="40" /></a><nbsp>
-<a href="https://linkedin.com/in/sneha-agrwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="30" width="40" /></a><nbsp>
+<a href="https://twitter.com/snehaagrwal_" target="blank"><img align="center"src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /> alt="Twitter" height="30" width="40" /></a><nbsp>
+<a href="https://linkedin.com/in/sneha-agrwal" target="blank"><img align="center"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Linkedin" height="30" width="40" /></a><nbsp>
 <a href="https://instagram.com/snehaagrwal_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a><nbsp>
 <a href="https://medium.com/@snehaagarwalbly361" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" /></a>
-  
-[<img align="left" alt="vidit" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="vidit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="vidit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
