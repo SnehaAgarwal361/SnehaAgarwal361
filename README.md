@@ -3,7 +3,7 @@
 
 - 🎯I’m currently learning **Web Development, Competitive Coding within Time constraints.**
 
-- 🌈 Are you interested in collaboration? **I'm up to any inspiring project on web development..**
+- 🌈 Are you interested in collaboration? **I'm up for any inspiring project on web development..**
 
 - 🎖️I’m **Seeking to ensure a challenging position in the world of technology enhancing my technical and analytical abilities.**
 
