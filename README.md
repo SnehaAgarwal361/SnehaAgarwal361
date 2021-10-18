@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sneha Agarwal!✨</h1>
 <h3 align="center">A Highly Passionate, solutions-oriented professional.😃🌈</h3>
 
-- 🎯I’m currently learning **Web Development, Competitive Coding within Time constraints.**
+- 🎯I’m currently learning **Front End Web Development.**
 
 - 🌈 Are you interested in collaboration? **I'm up for any inspiring project on web development..**
 
@@ -9,7 +9,7 @@
 
 - 🎥My YouTube Channel [https://www.youtube.com/channel/UCLMw_Xwt32PZxsclqRucDOw](https://www.youtube.com/channel/UCLMw_Xwt32PZxsclqRucDOw)
 
-- 📝 I regularly write articles on [https://snehaagarwalbly361.medium.com/](https://snehaagarwalbly361.medium.com/)
+- 📝 I write articles on [https://snehaagarwalbly361.medium.com/](https://snehaagarwalbly361.medium.com/)
 
 - 📫 How to reach me **snehaagarwalbly361@gmail.com**
 
